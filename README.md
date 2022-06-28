@@ -1,6 +1,7 @@
 # Welcome to My CDK TypeScript project
 
 This is a AWS ECS Fargate project for CDK development with TypeScript.
+All service seperated one by one from each other. They are inside the lib file.
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
