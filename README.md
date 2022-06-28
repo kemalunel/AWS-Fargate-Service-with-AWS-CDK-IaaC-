@@ -4,12 +4,12 @@ This is a AWS ECS Fargate project for CDK development with TypeScript.
 All service seperated one by one from each other. They are inside the lib file.
 
 Following Sercices, which are include in the lib file:
-*VPC
-*ECR
-*SSM
-*ECS
-*FARGATE
-*CLOUDWATCH
+- VPC
+- ECR
+- SSM
+- ECS
+- FARGATE
+- CLOUDWATCH
 
 PS. Some files have high construct on their code.
 
