@@ -1,0 +1,19 @@
+{
+  "infras": {
+    "accaount": "",
+    "region": "eu-central-1",
+    "availabilityZones": [
+      "eu-central-1a",
+      "eu-central-1b"
+    ],
+    "vpcId": "vpc-0983c4531cb09d0ac",
+    "publicSubnetIds": [
+      "subnet-0bbf3ac91c863f52b",
+      "subnet-06d941d0ddcc2ec7d"
+    ]
+  },
+  "availability-zones:account=:region=eu-central-1": [
+    "eu-central-1a",
+    "eu-central-1b"
+  ]
+}
